@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ykj5359.github.io/todaypick/sitemap.xml
